@@ -1,0 +1,16 @@
+# Licensed WRDS data (CRSP / Compustat) — not redistributable
+data_raw/*
+data_clean/*
+!data_raw/.gitkeep
+!data_clean/.gitkeep
+
+# Stock-level predictions contain CRSP returns
+output/**/predictions*.parquet
+
+# Environment / IDE
+venv/
+.venv/
+.idea/
+__pycache__/
+*.pyc
+.DS_Store

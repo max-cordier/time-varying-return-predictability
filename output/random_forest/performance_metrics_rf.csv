@@ -1,0 +1,4 @@
+Label,Ann_Return,Ann_Vol,Sharpe,Max_Drawdown,N_months
+Long leg (D10),0.5465,0.2745,1.599,-0.3481,540
+Short leg (D1),0.1634,0.192,0.6844,-0.4279,540
+Long-Short (D10-D1),0.3384,0.1688,1.5816,-0.2156,540

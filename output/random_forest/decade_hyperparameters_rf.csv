@@ -1,0 +1,6 @@
+decade,max_depth,min_samples_leaf,max_features
+1980s,6,1000,0.5
+1990s,4,500,0.5
+2000s,6,500,0.5
+2010s,8,500,0.5
+2020s,4,500,0.5
